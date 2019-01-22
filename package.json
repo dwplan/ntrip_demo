@@ -1,0 +1,22 @@
+{
+  "name": "ntrip_demo",
+  "version": "1.0.0",
+  "description": "A NodeJS demo to read Ntrip GNSS data stream",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dw-gnss-aceinna/ntrip_demo.git"
+  },
+  "keywords": [
+    "ntrip"
+  ],
+  "author": "dxhbiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dw-gnss-aceinna/ntrip_demo/issues"
+  },
+  "homepage": "https://github.com/dw-gnss-aceinna/ntrip_demo#readme"
+}
