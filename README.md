@@ -24,3 +24,8 @@ ds.write(mountString);
 ```
 
 任务2：任务1中读取的3个数据流存储下来之后，再做一个Ntrip Client连接这个服务器(127.0.0.1:2101)去读取SF01,SF02,SF03的数据。
+
+任务3：用C++和Boost C++ Libraries里面的 ASIO 库，实现任务1和任务2，其中任务2不需要存储，只要发起一个Ntrip client去读取任务1中抓到的二进制数据流
+    - Boost.Asio库 网址：https://theboostcpplibraries.com/boost.asio
+    - JS代码可供参考
+    - 写下思路或者更可能多的代码
